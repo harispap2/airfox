@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Airfox">
+</Property><Property Name="Solution File" Value="C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\Airfox.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\Airfox.suo">
+</Property><Property Name="Date" Value="Σάββατο, 27 Δεκεμβρίου 2014">
+</Property><Property Name="Time" Value="23:54 μμ">
+</Property><Property Name="Log Number" Value="4">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Airfox.sln" Description="File successfully backed up as C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\Backup3\Airfox.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Airfox.suo" Description="File successfully backed up as C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\Backup3\Airfox.suo">
+</Event><Event ErrorLevel="2" Project="Airfox" Source="Airfox.vbproj" Description="Unable to parse project file: C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\Airfox.vbproj">
+</Event><Event ErrorLevel="3" Project="Airfox" Source="Airfox.vbproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Airfox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Airfox.sln" Description="Converted">
+</Event></UpgradeLog>

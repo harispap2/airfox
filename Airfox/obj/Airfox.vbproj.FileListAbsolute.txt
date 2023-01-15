@@ -1,0 +1,101 @@
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form4.resources
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form5.resources
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Precise Products\Downloads\1.2\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form4.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form5.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Mail.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.FindDialog.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.frmMain.resources
+C:\Users\Precise Products\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.newsfeed.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.FindDialog.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form4.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form5.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.frmMain.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Mail.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.newsfeed.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Settings.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Clear_Browsing_Data.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Clear_History.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Reset_All_Settings.resources
+C:\Users\Haris\Desktop\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Reset_Advanced_Settings.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Clear_Browsing_Data.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Clear_History.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Reset_All_Settings.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Reset_Advanced_Settings.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.FindDialog.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form4.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form5.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.frmMain.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Mail.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.newsfeed.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Settings.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.updatenotify.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.welcome.resources
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Haris_LinuxOS\Desktop\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Updater_Launch.resources

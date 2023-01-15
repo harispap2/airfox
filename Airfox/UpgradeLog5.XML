@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Airfox">
+</Property><Property Name="Solution File" Value="C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\Airfox.sln">
+</Property><Property Name="Date" Value="Πέμπτη, 2 Απριλίου 2015">
+</Property><Property Name="Time" Value="14:29 μμ">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="Airfox" Source="Airfox.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Airfox" Source="Airfox.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Airfox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Airfox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Airfox" Source="Airfox.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

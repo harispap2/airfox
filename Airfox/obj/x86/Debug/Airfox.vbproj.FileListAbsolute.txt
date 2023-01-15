@@ -1,0 +1,333 @@
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\bin\Debug\Airfox.exe
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\bin\Debug\Airfox.pdb
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\bin\Debug\Airfox.xml
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.Bookmarks.resources
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.Developer.resources
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.History.resources
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.exe
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.xml
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.pdb
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\bin\Debug\Airfox.exe.config
+C:\Users\Precise Products\Desktop\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\bin\Debug\Airfox.exe.config
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.exe
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.xml
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.pdb
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\bin\Debug\Airfox.exe
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\bin\Debug\Airfox.pdb
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\bin\Debug\Airfox.xml
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.Bookmarks.resources
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.Developer.resources
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.History.resources
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\Airfox\TechViewHD - Advanced Web Browser\bin\Debug\Airfox.exe.config
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\Airfox\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.exe
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\Airfox\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.xml
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\Airfox\TechViewHD - Advanced Web Browser\obj\x86\Debug\Airfox.pdb
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\User\Desktop\AIRFOX_D\TechViewHD - Advanced Web Browser\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Developer.resources
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\User\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\bin\Debug\WebKit.Interop.dll
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Developer.resources
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Haris\Desktop\AIRFOX_D\Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+H:\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+H:\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+H:\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+H:\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Developer.resources
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+H:\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+H:\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+H:\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Developer.resources
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Haris\Desktop\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Haris\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbprojResolveAssemblyReference.cache
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbprojResolveAssemblyReference.cache
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\BugsGounelas-97\Desktop\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Haris\Desktop\0.9.2\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbprojResolveAssemblyReference.cache
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\BugsGounelas-97\Desktop\New folder (6)\0.9.3\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form4.resources
+C:\Users\Precise Products\Downloads\0.9.5(1)\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form5.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form4.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form5.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form4.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form5.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Haris_LinuxOS\Desktop\0.9.5 - Αντίγραφο\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.exe
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.pdb
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Airfox.xml
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Clear_Browsing_Data.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Clear_History.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Reset_All_Settings.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Reset_Advanced_Settings.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.FindDialog.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form4.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Form5.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.frmMain.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.History.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Mail.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.newsfeed.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Settings.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.updatenotify.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.Updater_Launch.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.welcome.resources
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\0.9.5\AirfoxGecko_0.9\TESTING.Airfox\Airfox\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\epimorfosi\Downloads\1_6_Final_Source\1_5_11_2_15_7\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\bin\Debug\Airfox.exe.config
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.exe
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.xml
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\bin\Debug\Airfox.exe
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\bin\Debug\Airfox.pdb
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\bin\Debug\Airfox.xml
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\bin\Debug\Geckofx-Core.pdb
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Clear_Browsing_Data.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Reset_All_Settings.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Reset_Advanced_Settings.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Form3.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Form1.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Form2.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Form4.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Form5.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Mail.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Resources.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.newsfeed.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Settings.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.updatenotify.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.Updater_Launch.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.welcome.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.HTML_Editor.resources
+C:\Users\Haris\Desktop\Source - Copy\17\Airfox\obj\x86\Debug\Airfox.FindDialog.resources
+E:\New Airfox\Source\Airfox\bin\Debug\Airfox.exe.config
+E:\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.exe
+E:\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.xml
+E:\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.pdb
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\bin\Debug\Airfox.exe.config
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.exe
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.xml
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.pdb
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\bin\Debug\Airfox.exe
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\bin\Debug\Airfox.pdb
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\bin\Debug\Airfox.xml
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Clear_Browsing_Data.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.FindDialog.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Reset_All_Settings.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Reset_Advanced_Settings.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Form3.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Form1.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Form2.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Form4.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Form5.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.HTML_Editor.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Downloader.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Mail.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Resources.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.newsfeed.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Settings.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.updatenotify.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.Updater_Launch.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.welcome.resources
+E:\0_HARIS_FILES\New Airfox\Source\Airfox\obj\x86\Debug\Airfox.vbproj.GenerateResource.Cache
